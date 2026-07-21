@@ -1,4 +1,4 @@
-# 💣 Minesweeper AI 💣 
+# Minesweeper AI 
 
 This project implements an AI agent capable of playing the classic game of Minesweeper. The agent uses propositional logic to make inferences about the game state, identifying safe cells and known mines based on the information it gathers.
 
